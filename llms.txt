@@ -1,0 +1,50 @@
+# Rainier Valley Dispatch
+
+> The Rainier Valley Dispatch is a free weekly email newsletter about Seattle, WA, sent Thursdays at 6 AM Pacific and published by Neighborhood Press LLC. It covers city council decisions, land-use and permit notices, road and transit changes, school district news, openings and closings, with one section per neighborhood. Every item links its public source. It is researched and written with AI tools, and an editor reads every issue before it goes out.
+
+## Key pages
+- [This week in Rainier Valley](https://www.rainiervalleydispatch.com/this-week/): the dated items for the current week, updated every Thursday
+- [Rainier Valley news](https://www.rainiervalleydispatch.com/news/): every story, newest first
+- [Reader asked](https://www.rainiervalleydispatch.com/asked/): readers' questions answered from the public record
+- [Standards](https://www.rainiervalleydispatch.com/standards/): publisher, sources, sponsors, corrections
+- [Subscribe](https://www.rainiervalleydispatch.com/): free, one email a week
+
+## Neighborhoods
+- [Columbia City](https://www.rainiervalleydispatch.com/columbia-city/): The Rainier Avenue South business district, the Columbia City light rail station on Martin Luther King Jr. Way South and Columbia Park.
+- [Hillman City](https://www.rainiervalleydispatch.com/hillman-city/): Rainier Avenue South around South Orcas Street, between Columbia City and Seward Park, with the Hillman City business district.
+- [Seward Park](https://www.rainiervalleydispatch.com/seward-park/): The streets west of the Seward Park peninsula, with its old-growth forest, the beach and the Lake Washington Boulevard South shoreline.
+- [Mount Baker](https://www.rainiervalleydispatch.com/mount-baker/): The hillside over Lake Washington with Mount Baker Park, Colman Park, Mount Baker Boulevard and the Mount Baker light rail station.
+- [Rainier Beach](https://www.rainiervalleydispatch.com/rainier-beach/): The south end of the valley, with the Rainier Beach light rail station, Pritchard Island Beach, Kubota Garden and the Rainier Beach community center.
+- [Brighton](https://www.rainiervalleydispatch.com/brighton/): Between Hillman City and Rainier Beach around Martin Luther King Jr. Way South, with Brighton Playfield and the Othello light rail station.
+- [Beacon Hill](https://www.rainiervalleydispatch.com/beacon-hill/): The ridge south of Jefferson Park through Mid-Beacon and South Beacon Hill, along Beacon Avenue South and the Chief Sealth Trail.
+- [North Beacon Hill](https://www.rainiervalleydispatch.com/north-beacon-hill/): The north end of the ridge, with Jefferson Park, the Beacon Hill light rail station and the Beacon Avenue South business district.
+
+## Latest
+- [The City Council's budget committee starts voting Friday, November 13, at 9:30 AM, and the morning opens with public comment](https://www.rainiervalleydispatch.com/news/2026-11-12-the-city-council-s-budget-committee-starts-voting-friday-november-13-a/) (2026-11-12)
+- [Rainier Avenue South between South Fisher Place and Sturtevant Avenue South is in line for skid-resistant pavement](https://www.rainiervalleydispatch.com/news/2026-11-12-rainier-avenue-south-between-south-fisher-place-and-sturtevant-avenue/) (2026-11-12)
+- [Construction has started across from the Mount Baker station](https://www.rainiervalleydispatch.com/news/2026-11-12-construction-has-started-across-from-the-mount-baker-station/) (2026-11-12)
+- [when the power goes out](https://www.rainiervalleydispatch.com/news/2026-11-12-when-the-power-goes-out/) (2026-11-12)
+- [What is planned for the former Rite Aid at Rainier Avenue South and South Henderson Street](https://www.rainiervalleydispatch.com/asked/2026-11-12-what-is-planned-for-the-former-rite-aid-at-rainier-avenue-south-and-so/) (2026-11-12)
+- [When apartments will go up on the old Jumbo site at Rainier and Genesee](https://www.rainiervalleydispatch.com/asked/2026-11-12-when-apartments-will-go-up-on-the-old-jumbo-site-at-rainier-and-genese/) (2026-11-12)
+- [How a neighborhood gets a crosswalk or a stop sign at a corner](https://www.rainiervalleydispatch.com/asked/2026-11-12-how-a-neighborhood-gets-a-crosswalk-or-a-stop-sign-at-a-corner/) (2026-11-12)
+- [The Seattle Public Library is closed on Wednesday, November 11, for Veterans Day, at every branch, including Columbia City, Beacon Hill and Rainier Beach](https://www.rainiervalleydispatch.com/news/2026-11-05-the-seattle-public-library-is-closed-on-wednesday-november-11-for-vete/) (2026-11-05)
+- [before the first freeze](https://www.rainiervalleydispatch.com/news/2026-11-05-before-the-first-freeze/) (2026-11-05)
+- [Whether real development will come near the Rainier Beach light rail station](https://www.rainiervalleydispatch.com/asked/2026-11-05-whether-real-development-will-come-near-the-rainier-beach-light-rail-s/) (2026-11-05)
+- [Ballots go in a drop box by 8 PM Tuesday, November 3](https://www.rainiervalleydispatch.com/news/2026-10-29-ballots-go-in-a-drop-box-by-8-pm-tuesday-november-3/) (2026-10-29)
+- [South Henderson Street's two-way protected bike lane is open, from the Rainier Beach station toward Seward Park Avenue South](https://www.rainiervalleydispatch.com/news/2026-10-29-south-henderson-street-s-two-way-protected-bike-lane-is-open-from-the/) (2026-10-29)
+- [Route 7's RapidRide upgrade, the R Line, goes to the King County Council for route and station approval in early 2027](https://www.rainiervalleydispatch.com/news/2026-10-29-route-7-s-rapidride-upgrade-the-r-line-goes-to-the-king-county-council/) (2026-10-29)
+- [The Beacon Hill station elevator outage is off Sound Transit's alert list](https://www.rainiervalleydispatch.com/news/2026-10-29-the-beacon-hill-station-elevator-outage-is-off-sound-transit-s-alert-l/) (2026-10-29)
+- [Clocks fall back one hour at 2 AM Sunday, November 1](https://www.rainiervalleydispatch.com/news/2026-10-29-clocks-fall-back-one-hour-at-2-am-sunday-november-1/) (2026-10-29)
+- [what goes in the food and yard cart](https://www.rainiervalleydispatch.com/news/2026-10-29-what-goes-in-the-food-and-yard-cart/) (2026-10-29)
+- [Why Trader Joe's hasn't opened in southeast Seattle, and what is happening at the long-vacant corner of Rainier Avenue South and South Genesee Street](https://www.rainiervalleydispatch.com/asked/2026-10-29-why-trader-joe-s-hasn-t-opened-in-southeast-seattle-and-what-is-happen/) (2026-10-29)
+- [The Beacon Avenue South survey closes October 31, and the online meeting is next Thursday, October 29, 6 to 7 PM](https://www.rainiervalleydispatch.com/news/2026-10-22-the-beacon-avenue-south-survey-closes-october-31-and-the-online-meetin/) (2026-10-22)
+- [Jefferson, Rainier and Van Asselt community centers are in line to replace their fossil-fuel equipment and go fully electric](https://www.rainiervalleydispatch.com/news/2026-10-22-jefferson-rainier-and-van-asselt-community-centers-are-in-line-to-repl/) (2026-10-22)
+- [The Columbia City Farmers Market closes its season next Wednesday, October 28](https://www.rainiervalleydispatch.com/news/2026-10-22-the-columbia-city-farmers-market-closes-its-season-next-wednesday-octo/) (2026-10-22)
+- [Elevator 2 at Beacon Hill station is still out, a week after the October 14 outage](https://www.rainiervalleydispatch.com/news/2026-10-22-elevator-2-at-beacon-hill-station-is-still-out-a-week-after-the-octobe/) (2026-10-22)
+- [Kubota Garden's maple tree sale is this Saturday, October 24, 9 AM to 1 PM](https://www.rainiervalleydispatch.com/news/2026-10-22-kubota-garden-s-maple-tree-sale-is-this-saturday-october-24-9-am-to-1/) (2026-10-22)
+- [clear the drain, not the street](https://www.rainiervalleydispatch.com/news/2026-10-22-clear-the-drain-not-the-street/) (2026-10-22)
+- [SDOT has started designing Beacon Avenue South from South Spokane Street to 39th Avenue South, and the first chance to weigh in is today](https://www.rainiervalleydispatch.com/news/2026-10-17-sdot-has-started-designing-beacon-avenue-south-from-south-spokane-stre/) (2026-10-17)
+- [One elevator at Beacon Hill station has been out since Wednesday, with no return date](https://www.rainiervalleydispatch.com/news/2026-10-17-one-elevator-at-beacon-hill-station-has-been-out-since-wednesday-with/) (2026-10-17)
+- [The Columbia City Farmers Market has two Wednesdays left: October 21 and October 28](https://www.rainiervalleydispatch.com/news/2026-10-17-the-columbia-city-farmers-market-has-two-wednesdays-left-october-21-an/) (2026-10-17)
+- [Kubota Garden's free fall color tours start at 10 AM today](https://www.rainiervalleydispatch.com/news/2026-10-17-kubota-garden-s-free-fall-color-tours-start-at-10-am-today/) (2026-10-17)
+- [November 2, not October 31](https://www.rainiervalleydispatch.com/news/2026-10-17-november-2-not-october-31/) (2026-10-17)
